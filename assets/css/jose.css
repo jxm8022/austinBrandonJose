@@ -1,0 +1,45 @@
+.page {
+    background-image: url("../images/jose-images/terraria.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-size: 250%;
+    background-attachment: fixed;
+}
+
+.images {
+    width: 400px;
+}
+
+.gameimages {
+    width: 45%;
+    margin: 10px;
+}
+
+.movies {
+    display: inline-block;
+    padding: 50px;
+    align-items: center;
+}
+
+.movieTitles {
+    display: inline-block;
+    padding: 1px;
+    margin: 10px;
+}
+
+.intro {
+    text-align: center;
+    font-size: 100px;
+    padding-top: 25px;
+}
+
+.main {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+}
+
+footer {
+    padding: 30px 30px;
+}
